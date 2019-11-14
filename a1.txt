@@ -1,2 +1,4 @@
 hi this is snehal
-xyz
+=======
+ hi dik
+>>>>>>> f6c222eec8a5f1eff155bebeaa371e8c30ebbe4e
